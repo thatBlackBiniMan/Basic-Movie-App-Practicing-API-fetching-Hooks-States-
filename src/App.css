@@ -40,6 +40,18 @@ h1 {
   width: fit-content;
 }
 
+p{
+  font-size: 16px;
+  font-family: monospace;
+  color: rgb(23, 23, 22);
+  background: linear-gradient(
+  90deg,
+  rgba(249, 211, 180, 1) 0%,
+  rgba(249, 211, 180, 0) 100%
+);
+}
+
+
 .search {
   width: 71%;
   margin: 4rem 0 2rem;
